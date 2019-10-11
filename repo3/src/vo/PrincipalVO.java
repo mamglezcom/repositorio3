@@ -1,4 +1,4 @@
-package repo3;
+package vo;
 
 public class PrincipalVO {
 	
