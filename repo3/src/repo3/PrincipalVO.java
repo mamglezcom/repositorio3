@@ -1,8 +1,8 @@
 package repo3;
 
-public class principalVO {
+public class PrincipalVO {
 	
-	String nombre;
+	String nombre = "Miguel";
 	
 	public void principalVO() {
 		
